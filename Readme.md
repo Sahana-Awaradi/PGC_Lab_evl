@@ -124,7 +124,7 @@ The following graphs compare execution time, speedup, and parallel efficiency fo
 ### 7.1 Execution Time vs Number of Threads
 
 This graph compares the measured OpenMP execution time for different thread counts.
-![Uploading image.png…]()
+<img width="801" height="530" alt="image" src="https://github.com/user-attachments/assets/c3ba1eb9-8b32-4155-9f04-f75e650bfebb" />
 
 
 ### 7.2 Speedup vs Number of Threads
@@ -134,8 +134,8 @@ Speedup measures how much faster the parallel implementation runs compared with 
 **Formula:**
 
 `Speedup = Sequential Execution Time / Parallel Execution Time`
+<img width="806" height="536" alt="image" src="https://github.com/user-attachments/assets/3896df98-bc09-454c-ad71-1b3e3cb03cb0" />
 
-![Speedup vs Number of Threads](graphs/speedup.png)
 
 ### 7.3 Parallel Efficiency vs Number of Threads
 
@@ -145,7 +145,8 @@ Parallel efficiency measures speedup relative to the number of threads used.
 
 `Efficiency (%) = (Speedup / Number of Threads) × 100`
 
-![Parallel Efficiency vs Number of Threads](graphs/efficiency.png)
+![Uploading image.png…]()
+
 
 ## 8. Experimental Output Screenshots
 
