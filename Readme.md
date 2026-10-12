@@ -155,15 +155,18 @@ The following screenshots document the program execution in the Ubuntu environme
 
 ### Experiment 1: Dataset Size = 100,000
 
-![Terminal output for 100000 elements](screenshots/run_100000.png)
+<img width="820" height="372" alt="image" src="https://github.com/user-attachments/assets/ab6f85ab-5402-4b61-bbcf-9095e1fcb47d" />
+
 
 ### Experiment 2: Dataset Size = 1,000,000
 
-![Terminal output for 1000000 elements](screenshots/run_1000000.png)
+<img width="845" height="377" alt="image" src="https://github.com/user-attachments/assets/86be8c82-2831-4460-b6ad-d99ee9c0010f" />
+
 
 ### Experiment 3: Dataset Size = 10,000,000
 
-![Terminal output for 10000000 elements](screenshots/run_10000000.png)
+<img width="832" height="376" alt="image" src="https://github.com/user-attachments/assets/c1a6d685-7be6-4149-b0a4-f7fb1080c143" />
+
 
 ## 9. Results Summary
 
