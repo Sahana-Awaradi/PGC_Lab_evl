@@ -134,7 +134,8 @@ Speedup measures how much faster the parallel implementation runs compared with 
 **Formula:**
 
 `Speedup = Sequential Execution Time / Parallel Execution Time`
-<img width="806" height="536" alt="image" src="https://github.com/user-attachments/assets/3896df98-bc09-454c-ad71-1b3e3cb03cb0" />
+<img width="801" height="530" alt="image" src="https://github.com/user-attachments/assets/8e5c3c6e-fc3a-4fea-826d-afd70adeacc0" />
+
 
 
 ### 7.3 Parallel Efficiency vs Number of Threads
@@ -145,7 +146,7 @@ Parallel efficiency measures speedup relative to the number of threads used.
 
 `Efficiency (%) = (Speedup / Number of Threads) × 100`
 
-![Uploading image.png…]()
+<img width="806" height="536" alt="image" src="https://github.com/user-attachments/assets/3bb6373c-0dc8-49bd-9bb3-24992023ba1d" />
 
 
 ## 8. Experimental Output Screenshots
